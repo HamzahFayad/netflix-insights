@@ -4,8 +4,6 @@
 
 What is the total number of movies and TV shows available on Netflix for each year?
 
-How has the number of movies and TV shows on Netflix changed over the years?
-
 Which genres are the most popular on Netflix?
 
 What is the distribution of content by genre?
