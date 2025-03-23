@@ -8,10 +8,6 @@ Which genres are the most popular on Netflix?
 
 What is the average runtime of movies and TV shows by genre?
 
-How do the number of titles in each genre vary by year?
-
-How does the number of releases for each genre differ across decades?
-
 - 🎬 Top Content by Year:
 
 What are the most popular movies and TV shows each year?
