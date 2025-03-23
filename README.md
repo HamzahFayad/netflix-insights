@@ -2,29 +2,17 @@
 
 - 📊 General Questions:
 
-What is the total number of movies and TV shows available on Netflix for each year?
+What is the total number of movies and TV shows available on Netflix for each year? (x)
 
-Which genres are the most popular on Netflix?
+Which genres are the most popular on Netflix? (x)
 
-What is the average runtime of movies and TV shows by genre?
+What is the average runtime of movies and TV shows by genre? (x)
 
-- 🎬 Top Content by Year:
+- 🎬 Content Rating (Restriction):
 
-What are the most popular movies and TV shows each year?
+What countries have the most R rated movies / TV shows? (x)
 
-What year had the highest number of releases on Netflix?
-
-What genres dominated Netflix in specific years (e.g., the 2010s)?
-
-- 🏆 Top Content by Rating
-
-Which genres or countries have the highest average ratings (e.g., IMDb or Netflix ratings)?
-
-What are the top-rated movies and TV shows on Netflix?
-
-Which actors/actresses appear in the highest-rated Netflix shows and movies?
-
-What are the top 10 movies and TV shows by viewer ratings?
+What are the most frequent ratings?
 
 - 🌍 Geographical Insights
 
