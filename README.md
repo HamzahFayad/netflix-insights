@@ -10,11 +10,9 @@ What is the average runtime of movies and TV shows by genre? (x)
 
 What countries have the most R rated movies / TV shows? (x)
 
-Who are the most frequent actors or directors on Netflix?
+Who are the most frequent actors or directors on Netflix? (x)
 
 How have genre preferences changed over the years?
-
-Are there any regional trends in the types of movies or shows available?
 
 What percentage of Netflix content is produced in the US vs. other countries?
 
